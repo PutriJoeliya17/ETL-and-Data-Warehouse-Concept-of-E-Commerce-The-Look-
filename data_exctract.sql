@@ -1,6 +1,4 @@
 -- ====================================================================
--- GRADED CHALLENGE 6 - EXTRACT DATA
--- Author         : Putri Joeliya - RMT 020
 -- Dataset Source : bigquery-public-data.thelook_ecommerce
 -- Purpose        : Extract sales and dimensional data for Data Warehouse
 -- ====================================================================
