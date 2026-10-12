@@ -1,7 +1,5 @@
 -- ====================================================================
--- GRADED CHALLENGE 6 - Data Loading
--- Name : Putri Joeliya
--- Batch : CODA-RMT-020
+-- Data Loading Process
 -- ====================================================================
 -- 1. Users Dimension Table 
 CREATE TABLE dim_users (
